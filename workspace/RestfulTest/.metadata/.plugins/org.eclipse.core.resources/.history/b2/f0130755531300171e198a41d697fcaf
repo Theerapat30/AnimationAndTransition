@@ -1,0 +1,5 @@
+package com.vogella.jersey.first.client;
+
+public class Test {
+
+}

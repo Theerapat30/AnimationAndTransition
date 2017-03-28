@@ -1,0 +1,5 @@
+package com.vogella.web.filecounter.dao;
+
+public class FileDao {
+
+}

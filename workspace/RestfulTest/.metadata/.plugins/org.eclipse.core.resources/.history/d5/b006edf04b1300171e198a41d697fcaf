@@ -1,0 +1,5 @@
+package com.vogella.jersey.first;
+
+public class Hello {
+
+}
